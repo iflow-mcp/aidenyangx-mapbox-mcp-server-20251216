@@ -1,5 +1,5 @@
 {
-  "name": "mapbox-mcp-server",
+  "name": "@iflow-mcp/mapbox-mcp-server",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
