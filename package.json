@@ -4,7 +4,7 @@
   "main": "index.js",
   "type": "module",
   "bin": {
-    "mapbox": "./build/index.js"
+    "mapbox-mcp-server": "./build/index.js"
   },
   "files": [
     "build"
